@@ -1,0 +1,4 @@
+/Users/patchking/Desktop/prunks/learning_cmake/CMakeFiles/helloworld.dir
+/Users/patchking/Desktop/prunks/learning_cmake/CMakeFiles/edit_cache.dir
+/Users/patchking/Desktop/prunks/learning_cmake/CMakeFiles/rebuild_cache.dir
+/Users/patchking/Desktop/prunks/learning_cmake/CMakeFiles/helloworld_autogen.dir

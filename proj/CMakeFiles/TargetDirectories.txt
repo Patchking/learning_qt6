@@ -1,0 +1,5 @@
+/Users/patchking/Desktop/prunks/learning_cmake/proj/CMakeFiles/calculator.dir
+/Users/patchking/Desktop/prunks/learning_cmake/proj/CMakeFiles/edit_cache.dir
+/Users/patchking/Desktop/prunks/learning_cmake/proj/CMakeFiles/rebuild_cache.dir
+/Users/patchking/Desktop/prunks/learning_cmake/proj/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/Users/patchking/Desktop/prunks/learning_cmake/proj/CMakeFiles/calculator_autogen.dir
