@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "qapplication": "cpp",
+        "qgridlayout": "cpp",
+        "new": "cpp",
+        "qlabel": "cpp",
+        "qlineedit": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp"
+    }
+}
